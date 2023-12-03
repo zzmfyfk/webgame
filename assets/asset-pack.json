@@ -1,0 +1,23 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/DALL·E 2023-12-03 07.06.33 - A retro pixel art style main menu screen for a classic Chinese love story themed platform game. The screen includes the title 'Liang Shanbo & Zhu Ying.png",
+                "type": "image",
+                "key": "DALL·E 2023-12-03 07.06.33 - A retro pixel art style main menu screen for a classic Chinese love story themed platform game. The screen includes the title 'Liang Shanbo & Zhu Ying"
+            },
+            {
+                "url": "assets/dino.png",
+                "key": "dino",
+                "type": "image"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

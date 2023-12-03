@@ -1,0 +1,33 @@
+{
+    "id": "01aefa93-6044-4159-8358-7e91310aa05f",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Level",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "0fb46038-25e9-478f-9da9-b46582b3d57d",
+            "label": "dALL_E_2023_12_03_07_06_33___A_retro_pixel_art_style_main_menu_screen_for_a_classic_Chinese_love_story_themed_platform_game__The_screen_includes_the_title__Liang_Shanbo___Zhu_Ying",
+            "scope": "PUBLIC",
+            "texture": {
+                "key": "DALL·E 2023-12-03 07.06.33 - A retro pixel art style main menu screen for a classic Chinese love story themed platform game. The screen includes the title 'Liang Shanbo & Zhu Ying"
+            },
+            "x": 653,
+            "y": 352,
+            "scaleX": 0.8489088658419323,
+            "scaleY": 0.712521479827341
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}
